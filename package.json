@@ -1,6 +1,6 @@
 {
   "name": "sk-essentials",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Experimental library for educational purposes.",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skounis/sk-essentials.git"
+    "url": "git+https://github.com/skounis/sk-essentials-js.git"
   },
   "author": "Stavros Kounis",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/skounis/sk-essentials/issues"
+    "url": "https://github.com/skounis/sk-essentials-js/issues"
   },
-  "homepage": "https://github.com/skounis/sk-essentials#readme"
+  "homepage": "https://github.com/skounis/sk-essentials-js#readme"
 }
