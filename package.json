@@ -1,6 +1,7 @@
 {
   "name": "sk-essentials",
-  "version": "2.0.0",
+  "type": "module",
+  "version": "2.0.1",
   "description": "Experimental library for educational purposes.",
   "main": "index.js",
   "scripts": {
